@@ -1,6 +1,6 @@
 # Math of Machine Learning in Julia 
 
-This repository contains a course project for "Mathematics of Machine Learning" developed in the Julia language. The project consists of three main folders, each focused on a different aspect of machine learning.
+This repository contains a course project for "Mathematics of Machine Learning" developed in the Julia language. The project consists of four main folders, each focused on a different aspect of machine learning.
 
 ## 1 Least Squares
 This folder contains a demonstration of the least squares method, including the solution to the Point Set Registration problem. The focus of this folder is on the mathematical foundations of machine learning.
