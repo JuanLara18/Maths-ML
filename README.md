@@ -11,6 +11,10 @@ This folder contains a practical application of machine learning using the Mines
 ## 3 Stochastic Gradient Descent
 This folder contains a theoretical development of stochastic gradient descent and its use in deep neural networks. The focus of this folder is on understanding why the optimization problem solution works in deep neural networks.
 
+## 4 Learning From Data
+
+This folder contains answers to some of the introductory questions about statistical learning theory found in the book "Learning From Data" by Yaser S. Abu-Mostafa. The focus of this folder is on gaining a deeper understanding of the theory behind machine learning.
+
 ___
 
 ## Getting Started
